@@ -1,0 +1,14 @@
+../Core/Src/main.c:103:6:ADC_Init	40	static
+../Core/Src/main.c:125:10:Read_ADC	24	static
+../Core/Src/main.c:137:6:UART_Init	32	static
+../Core/Src/main.c:166:6:UART_Send_1Byte	24	static
+../Core/Src/main.c:176:6:UART_Send_Str	24	static
+../Core/Src/main.c:211:5:main	8	static
+../Core/Src/main.c:317:6:SystemClock_Config	88	static
+../Core/Src/main.c:359:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:392:6:send_data_task	56	static
+../Core/Src/main.c:419:6:read_temp_ss_task	24	static
+../Core/Src/main.c:448:6:print_hello_func	16	static
+../Core/Src/main.c:467:6:StartTask04	24	static
+../Core/Src/main.c:483:6:Callback_timer	56	static
+../Core/Src/main.c:500:6:Error_Handler	4	static,ignoring_inline_asm
